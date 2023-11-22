@@ -28,4 +28,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Thank you for checking out the Terribly Tiny Tales Profile Screen! If you have any questions or feedback, feel free to reach out.
 
-Note: Adjust the sections and details as needed based on your project's specific features and requirements.
