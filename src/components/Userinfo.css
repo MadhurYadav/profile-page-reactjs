@@ -1,0 +1,105 @@
+
+.userinfo {
+    display: flex;
+    height: 150px;
+    width: 100vw;
+  }
+  
+  .profile-pic {
+    width: 150px;
+    height: 150px;
+    margin-left: 30px;
+  }
+  
+  .dp {
+    position: relative;
+    z-index: 1;
+    margin-top: -25px;
+    width: 100%;
+    height: 100%;
+    border-radius: 100px;
+  }
+  
+  .info {
+    text-align: left;
+    margin-top: 1rem;
+    margin-left: 1.5rem;
+    width: 200px;
+  }
+  
+  .follow {
+    color: rgb(152, 152, 152);
+    text-align: center;
+    margin-top: 0.5rem;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+  }
+  
+  .count {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 3rem;
+    height: 1.5rem;
+    border: 3px solid;
+    padding-left: 9px;
+    padding-right: 9px;
+    border-radius: 8px;
+  }
+  
+  .following {
+    margin-left: 0.5rem;
+  }
+  
+  .bio {
+    text-align: left;
+    margin-left: 2rem;
+  }
+  
+  .link {
+    text-decoration: none;
+    color: #1bd1de;
+  }
+  
+  .highlights {
+    display: flex;
+    margin-top: 0.7rem;
+    align-items: center;
+  }
+  
+  .hlt {
+    margin-right: 1rem;
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+  
+  .hlticons.thumbs-up {
+    background-color: yellow;
+    border: 2px solid white;
+    border-radius: 50%;
+    padding: 5px; 
+    margin-right: 5px; 
+  }
+  
+  .name {
+    display: flex;
+    align-items: center;
+  }
+  
+  .icons {
+    margin-top: 4px;
+    margin-left: 0.5rem;
+  }
+  
+  .hlticons {
+    margin-right: 0.3rem;
+  }
+  
+  .hlticons.rating {
+    color: skyblue; 
+  }
+
+  
+  
