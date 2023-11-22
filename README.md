@@ -1,7 +1,7 @@
 
 # PROFILE-PAGE USING REACT
 
-Vercel Link - ttt-profile-page-reactjs.vercel.app
+Vercel Link - https://ttt-profile-page-reactjs.vercel.app/
 
 Welcome to the Terribly Tiny Tales assesment project on Profile Screen! This project provides a sleek and informative user profile screen for Terribly Tiny Tales CEO Mr. Anuj Gosalia, showcasing essential user information, posts, and highlights.
 
