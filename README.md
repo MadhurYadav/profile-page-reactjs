@@ -13,13 +13,35 @@ Components :
 └── public/
 └── index.html
 
-The "Header" component is responsible for rendering the navigation bar at the top of the page. It includes links to the courses section, along with the brand logo on left.
+Terribly Tiny Tales Profile Screen
+Welcome to the Terribly Tiny Tales Profile Screen repository! This project provides a sleek and informative user profile screen for Terribly Tiny Tales, showcasing essential user information, posts, and highlights.
 
-The "Cover" component displays a cover image or banner at the top of the user profile or homepage. It adds a visually appealing element to the user interface.
+Features
+Profile Picture: Display the user's profile picture prominently.
+User Information: Show user details such as name and verified status.
+Followers and Following Count: Highlight the number of followers and accounts being followed.
+Bio Section: Provide a brief bio, along with a link to the user's Instagram profile.
+Highlights Section: Showcase notable achievements, including star ratings, upvotes, views, and likes.
+Posts Section: Present a collection of engaging posts with upvote functionality.
 
-The "UserInfo" component provides a brief overview of the user's information. It includes the user's profile picture, name, bio, count of following and followers and other relevant details.
+Profile Screen
 
-The "Divider" component is a simple horizontal line along with the post count on the left, and is used to visually separate sections of the page.
+Technologies Used
+React
+React Icons
+Getting Started
+Clone the repository.
+Install dependencies with npm install.
+Run the app with npm start.
+Feel free to explore the code and customize it according to your preferences.
 
-The "Posts" component displays user posts or content. It is used multiple times to showcase different posts on the user's profile or homepage. 
+Contributions
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Thank you for checking out the Terribly Tiny Tales Profile Screen! If you have any questions or feedback, feel free to reach out.
+
+Note: Adjust the sections and details as needed based on your project's specific features and requirements.
 
